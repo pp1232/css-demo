@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 个人博客
 
 You can use the [editor on GitHub](https://github.com/pp1232/pp1232.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
