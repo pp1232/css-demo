@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[CSS应知应会](pp1232.github.io/css/css应知应会.md)
+[CSS应知应会](https://github.com/pp1232/pp1232.github.io/css/css应知应会.md)
 
 ```markdown
 Syntax highlighted code block
